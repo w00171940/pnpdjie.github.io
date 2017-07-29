@@ -10,9 +10,9 @@
 - 跨域业务：即业务专线的源宿节点跨过两个及以上单域VPN业务管理域。比如某企业与另个企业分别在不同的两个城市，中间需要经过汇聚域、核心域实现业务专线的创建。
 
 ## 前提条件
-- 用户具备“IP WAN业务管理”的“配置IP WAN网络设计”和“查看IP WAN网络设计”的权限。更多信息可参见[了解用户与权限](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn "")。
-- 已在[“一站式资源准备”](/basereswebsite/navigation.html?navg=accessSystem "")中完成基础资源的准备，[了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn "")。
+- 用户具备“IP WAN业务管理”的“配置IP WAN网络设计”和“查看IP WAN网络设计”的权限。更多信息可参见[了解用户与权限](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
+- 已在[“一站式资源准备”](/basereswebsite/navigation.html?navg=accessSystem)中完成基础资源的准备，[了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
 
 ## 后续操作
-- [业务模板维护](/vpndesignwebsite/manage/index.html?agencyId=1&locale=zh-cn "")：业务模板创建后可以执行发布、停止发布、复制、修改业务模板名称操作，对于未发布或去发布的业务模板可以执行修改、删除等操作。
-- [业务发放](/ui/wansolution/v1/pages/provision.html?showMenu=false&agencyId=1&locale=zh-cn "")：选择已设计好的业务模板发放业务。
+- [业务模板维护](/vpndesignwebsite/manage/index.html?agencyId=1&locale=zh-cn)：业务模板创建后可以执行发布、停止发布、复制、修改业务模板名称操作，对于未发布或去发布的业务模板可以执行修改、删除等操作。
+- [业务发放](/ui/wansolution/v1/pages/provision.html?showMenu=false&agencyId=1&locale=zh-cn)：选择已设计好的业务模板发放业务。
