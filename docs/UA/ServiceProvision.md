@@ -9,15 +9,15 @@
     - 提供业务拓扑，在计算路径后，可直观查看域间链路、域内网元、VLAN ID和端口等资源信息。
 
 ## 前提条件
-- 用户具备“IP WAN业务管理”的“配置IP WAN业务”、“查询IP WAN业务”、“配置IP WAN网络设计”和“查询IP WAN网络设计”的权限。更多信息请参见[查看用户权限](https://100.100.183.196:31943/hedex/infoCenterHome.html "")。
-- 已在[“一站式资源准备”](/basereswebsite/navigation.html?navg=accessSystem "")中完成基础资源的准备，[了解更多信息](https://100.100.183.196:31943/hedex/infoCenterHome.html "")。
-- 已在[“业务设计”](/vpndesignwebsite/manage/index.html?action=create&agencyId=1&locale=zh-cn "")中完成业务模板的创建。
+- 用户具备“IP WAN业务管理”的“配置IP WAN业务”、“查询IP WAN业务”、“配置IP WAN网络设计”和“查询IP WAN网络设计”的权限。[了解用户与权限](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
+- 已在[“一站式资源准备”](/basereswebsite/navigation.html?navg=accessSystem)中完成基础资源的准备，[了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
+- 已在[“业务设计”](/vpndesignwebsite/manage/index.html?action=create&agencyId=1&locale=zh-cn)中完成业务模板的创建。
 
 ## 注意事项
 - L2VPN业务不支持设置保护组。
 - SDH业务不需要设置保护组和路有约束。
 
-[单击了解详细操作步骤](https://100.100.183.196:31943/hedex/infoCenterHome.html "")。
+[单击了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
 
 ## 后续操作
-在[业务视图](/ui/underlayvpn/pages/servicemgrlist/servicemgrlist.html?showMenu=false&agencyId=1&locale=zh-cn "")中进行业务维护，如查看业务拓扑、连通性检测、激活去激活业务等。[了解更多信息](https://100.100.183.196:31943/hedex/infoCenterHome.html "")。
+在[业务视图](/ui/underlayvpn/pages/servicemgrlist/servicemgrlist.html?showMenu=false&agencyId=1&locale=zh-cn)中进行业务维护，如查看业务拓扑、连通性检测、激活去激活业务等。[了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
