@@ -17,7 +17,7 @@
 - L2VPN业务不支持设置保护组。
 - SDH业务不需要设置保护组和路有约束。
 
-[单击了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
+[单击了解更多业务发放的信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
 
 ## 后续操作
-在[业务视图](/ui/underlayvpn/pages/servicemgrlist/servicemgrlist.html?showMenu=false&agencyId=1&locale=zh-cn)中进行业务维护，如查看业务拓扑、连通性检测、激活去激活业务等。[了解更多信息](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
+在[业务视图](/ui/underlayvpn/pages/servicemgrlist/servicemgrlist.html?showMenu=false&agencyId=1&locale=zh-cn)中进行业务维护，如查看业务拓扑、连通性检测、激活去激活业务等。[查看更多业务维护操作](/hedex/hedex.do?lib=ies_control_zh&id=AdminConsoleHome_002&locale=zh-cn)。
