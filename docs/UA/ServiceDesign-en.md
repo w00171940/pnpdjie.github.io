@@ -11,6 +11,6 @@ The service design supports the service templates in two service scenarios:- Sin
 - You have collected NE, port, and link data from controllers. [![](../image/open_soft.png)More details](/hedex/hedex.do?lib=ies_control_en&id=base_resource&locale=en-us).
 
 ### Follow-up Procedure
-- [![](../image/open_soft.png)Service template maintenance](/vpndesignwebsite/manage/index.html):After a service template is created, you can release, revoke, copy, delete, export, or modify it. When a service template has not been released or has been revoked, you can also release, copy, delete, export, or modify it.
-- [![](../image/open_soft.png)Service provisioning](/ui/wansolution/v1/pages/provision.html):Select the designed service template for service provisioning.
+- [![](../image/open_soft.png)Service template maintenance](/vpndesignwebsite/manage/index.html): After a service template is created, you can release, revoke, copy, delete, export, or modify it. When a service template has not been released or has been revoked, you can also release, copy, delete, export, or modify it.
+- [![](../image/open_soft.png)Service provisioning](/ui/wansolution/v1/pages/provision.html): Select the designed service template for service provisioning.
 
